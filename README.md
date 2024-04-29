@@ -1,5 +1,4 @@
 # garbage-classification
-Hack Davis 2024
 
 # UI
 
